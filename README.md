@@ -26,7 +26,7 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Akshatkhurana/Image-Mailer
+   git clone https://github.com/Smeerdev/Image-Mailer
    cd Image-Mailer
    ```
 
