@@ -47,7 +47,7 @@ Make sure you have the following installed:
    npm start
    ```
 
-![Alt Text](https://github.com/Akshatkhurana/Image-Mailer/blob/main/images/p2.png)
+![Alt Text](https://github.com/Smeerdev/Image-Mailer/blob/main/images/p2.png)
 
 
 ## Usage
